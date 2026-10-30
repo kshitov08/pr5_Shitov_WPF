@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\pr5_Shitov_WPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|d:\\pr5_shitov_wpf\\computerbuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|solutionrelative:computerbuild.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|d:\\pr5_shitov_wpf\\pages\\componentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|solutionrelative:pages\\componentpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|d:\\pr5_shitov_wpf\\pages\\componentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|solutionrelative:pages\\componentpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|d:\\pr5_shitov_wpf\\pages\\buildpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|solutionrelative:pages\\buildpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|d:\\pr5_shitov_wpf\\pages\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|solutionrelative:pages\\listpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|d:\\pr5_shitov_wpf\\pages\\buildpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|solutionrelative:pages\\buildpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|d:\\pr5_shitov_wpf\\pages\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|solutionrelative:pages\\listpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|d:\\pr5_shitov_wpf\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32860A67-AE2B-5A2D-9695-D00B1D98973A}|pr5_Shitov_WPF.csproj|solutionrelative:component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Component.cs",
+              "DocumentMoniker": "D:\\pr5_Shitov_WPF\\Component.cs",
+              "RelativeDocumentMoniker": "Component.cs",
+              "ToolTip": "D:\\pr5_Shitov_WPF\\Component.cs",
+              "RelativeToolTip": "Component.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T05:39:15.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ComputerBuild.cs",
+              "DocumentMoniker": "D:\\pr5_Shitov_WPF\\ComputerBuild.cs",
+              "RelativeDocumentMoniker": "ComputerBuild.cs",
+              "ToolTip": "D:\\pr5_Shitov_WPF\\ComputerBuild.cs",
+              "RelativeToolTip": "ComputerBuild.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAswAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-30T05:22:44.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ComponentPage.xaml",
+              "DocumentMoniker": "D:\\pr5_Shitov_WPF\\Pages\\ComponentPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ComponentPage.xaml",
+              "ToolTip": "D:\\pr5_Shitov_WPF\\Pages\\ComponentPage.xaml",
+              "RelativeToolTip": "Pages\\ComponentPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T10:09:54.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListPage.xaml",
+              "DocumentMoniker": "D:\\pr5_Shitov_WPF\\Pages\\ListPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ListPage.xaml",
+              "ToolTip": "D:\\pr5_Shitov_WPF\\Pages\\ListPage.xaml",
+              "RelativeToolTip": "Pages\\ListPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T09:26:19.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListPage.xaml.cs",
+              "DocumentMoniker": "D:\\pr5_Shitov_WPF\\Pages\\ListPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ListPage.xaml.cs",
+              "ToolTip": "D:\\pr5_Shitov_WPF\\Pages\\ListPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ListPage.xaml.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAkwCgAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:26:31.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ComponentPage.xaml.cs",
+              "DocumentMoniker": "D:\\pr5_Shitov_WPF\\Pages\\ComponentPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ComponentPage.xaml.cs",
+              "ToolTip": "D:\\pr5_Shitov_WPF\\Pages\\ComponentPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ComponentPage.xaml.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAADUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T10:10:02.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BuildPage.xaml.cs",
+              "DocumentMoniker": "D:\\pr5_Shitov_WPF\\Pages\\BuildPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\BuildPage.xaml.cs",
+              "ToolTip": "D:\\pr5_Shitov_WPF\\Pages\\BuildPage.xaml.cs",
+              "RelativeToolTip": "Pages\\BuildPage.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwB8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-23T09:26:23.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuildPage.xaml",
+              "DocumentMoniker": "D:\\pr5_Shitov_WPF\\Pages\\BuildPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\BuildPage.xaml",
+              "ToolTip": "D:\\pr5_Shitov_WPF\\Pages\\BuildPage.xaml",
+              "RelativeToolTip": "Pages\\BuildPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-10-23T09:26:15.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

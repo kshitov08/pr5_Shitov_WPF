@@ -1,0 +1,61 @@
+﻿<Page x:Class="pr5_Shitov_WPF.Pages.ListPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:pr5_Shitov_WPF.Pages"
+      mc:Ignorable="d" 
+      d:DesignHeight="450" d:DesignWidth="900"
+      Title="ListPage">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="50"/>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="50"/>
+        </Grid.RowDefinitions>
+        <StackPanel Orientation="Horizontal">
+            <Button Margin="5" Padding="5" Content="Добавить" Click="AddButton_Click"/>
+            <Button Margin="5" Padding="5" Content="Редактировать" Click="EditButton_Click"/>
+            <Button Margin="5" Padding="5" Content="Удалить" Click="DeleteButton_Click"/>
+        </StackPanel>
+        <ListView Grid.Row="1" Grid.ColumnSpan="2"
+                  ItemsSource="{Binding Builds}"
+                  SelectedItem="{Binding SelectedBuild}"
+                  MouseDoubleClick="EditButton_Click">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel Margin="3">
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Id: " FontWeight="Bold"/>
+                            <TextBlock Text="{Binding Id}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Название: " FontWeight="Bold"/>
+                            <TextBlock Text="{Binding Name}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Назначение: " FontWeight="Bold"/>
+                            <TextBlock Text="{Binding Purpose}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Владелец: " FontWeight="Bold"/>
+                            <TextBlock Text="{Binding Owner}"/>
+                        </StackPanel>
+                        <StackPanel Orientation="Horizontal">
+                            <TextBlock Text="Стоимость сборки: " FontWeight="Bold"/>
+                            <TextBlock Text="{Binding BuildTotal, StringFormat={}{0:F2}}"/>
+                        </StackPanel>
+                    </StackPanel>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+        <StackPanel Orientation="Horizontal" Grid.Row="2" Grid.ColumnSpan="2" Background="AntiqueWhite">
+            <Label Content="Всего в списке:"/>
+            <Label Content="{Binding Builds.Count}"/>
+        </StackPanel>
+    </Grid>
+</Page>
